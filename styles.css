@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins:wght@400;500;600;700&display=swap');
+
+body{
+    background-color: hsl(240, 78%, 98%);
+    font-family:'Montserrat';
+}
+
+
+.container{
+   text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+.flex{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+.price-box{
+    padding: 1em;
+}
