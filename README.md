@@ -30,13 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-
-### Links
-
-- Solution URL: 
-- Live Site URL: 
-
-## My process
+![image](https://user-images.githubusercontent.com/78424298/203626292-24aa0b3e-d843-4d83-9066-6ff6657b0acc.png)
 
 ### Built with
 
@@ -44,7 +38,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
+- Responsiveness
 
 
 ### What I learned
