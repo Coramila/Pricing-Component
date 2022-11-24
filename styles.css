@@ -114,12 +114,27 @@ h1{
     letter-spacing: 2px;
     color: white;
     text-transform: uppercase;
+    cursor: pointer;
+}
+
+.price-box button:hover{
+    background-image: linear-gradient( to right, hsl(236, 72%, 70%) , hsl(237, 63%, 68%));
+}
+
+.price-box button:active{
+    transform: translateY(2px);
 }
 
 .price-box-premium button{
     background-image: none;
     background-color: white;
     color: hsl(237, 63%, 64%);
+}
+
+.price-box-premium button:hover{
+    background-image: none;
+    background-color: hsl(240, 78%, 98%);
+    border-color: #fff;
 }
 
 .toggle-container{
@@ -138,6 +153,7 @@ h1{
     border-radius: 50px;
     position: relative;
     margin: 1em;
+    cursor: pointer;
 }
 
 .toggle-container input{
