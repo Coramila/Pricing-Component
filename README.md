@@ -7,19 +7,15 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 
 ## Overview
 
-This is a challenge developed during the second week of mentoring, focusing on the Everyday Code philosophy.
+This is a challenge developed during the second week of mentoring, focusing on the Everyday Code philosophy. It consists in a page that shows some different kinds of price deppendign of the chosed package (annually or monthy).
 
 ### The challenge
 
@@ -43,17 +39,11 @@ Users should be able to:
 
 ### What I learned
 
-
-### Continued development
-
-
-### Useful resources
-
+- How to make it responsive
+- How to make a toggle button
+- How to alternate the information with the change of the toggle
 
 ## Author
 
 - Website - [Camila Carvalho](https://www.linkedin.com/in/carvalho-camila/)
-
-## Acknowledgments
-
 
