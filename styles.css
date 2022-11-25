@@ -95,7 +95,7 @@ h1{
 
 .price-box p {    
     font-size: 4em;
-    margin: 0;
+    margin: 0 auto;
     width: 250px;
 }
 
